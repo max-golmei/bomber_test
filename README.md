@@ -4,7 +4,7 @@ Bomberman-UE4
 About the game
 To play right away, go to Bomberman Release and run Bomberman_UE4.exe.
 
-Further development
+#####Further development####
 Add zoom in / out feature to Camera_Pawn, which will be useful for bigger maps.
 New Pickup: Blast range and Time bombs with detonator
 Adding more player
