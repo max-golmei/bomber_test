@@ -1,15 +1,22 @@
-Bomberman-UE4
+Bomberman_test
+
 3D, top-down, multiplayer game created with Unreal Engine 4.15.3.
 
 About the game
 To play right away, go to Bomberman Release and run Bomberman_UE4.exe.
 
 #####Further development####
+
 Add zoom in / out feature to Camera_Pawn, which will be useful for bigger maps.
+
 New Pickup: Blast range and Time bombs with detonator
+
 Adding more player
+
 Directional Blast collision with unbreakable wall and the range.
+
 Procedural Map Generation
+
 AI Generation 
 
 # bomber_test
